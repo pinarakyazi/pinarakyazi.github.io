@@ -1,4 +1,17 @@
-name: Pinar Akyazi, Awesome Student
-markdown: kramdown
+title:             Pinar Akyazi
+email:             pinar.akyazi@epfl.ch
+description:       PhD Student, living the life.
+author:            Pinar Akyazi
+baseurl:           "/startbootstrap-clean-blog-jekyll"
+url:               "http://pinarakyazi.github.io"
 
-permalink: /blog/:year/:month/:day/:title
+# Social Profiles
+github_username:   pinarakyazi
+
+# Build settings
+markdown:          kramdown
+paginate:          5
+paginate_path:     "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
