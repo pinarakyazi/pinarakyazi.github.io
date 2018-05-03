@@ -1,10 +1,10 @@
-title:             Pinar Akyazi
+title:             Pınar Akyazı
 email:             pinar.akyazi@epfl.ch
 description:       PhD Student, living the life.
-author:            Pinar Akyazi
-baseurl:           "/startbootstrap-clean-blog-jekyll"
-url:               "http://pinarakyazi.github.io"
-
+author:            Pınar Akyazı
+url:               https://pinarakyazi.github.io
+baseurl:           /home
+theme:             jekyll-theme-awesome
 # Social Profiles
 github_username:   pinarakyazi
 
