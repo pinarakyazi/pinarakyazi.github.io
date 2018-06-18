@@ -1,5 +1,7 @@
 ---
 layout: home
+title: Pınar Akyazı
+description: PhD Student
 background: '/img/summer.png'
 ---
 
